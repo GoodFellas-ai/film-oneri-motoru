@@ -1,7 +1,0 @@
-film-oneri-motoru/
-├── data/                # Buraya `u.data` ve `u.item` dosyalarını koy
-│   ├── u.data
-│   └── u.item
-├── notebook.ipynb       # Kodları yazacağın Jupyter dosyası
-├── README.md            # Açıklama
-├── requirements.txt     # Kütüphaneler listesi
