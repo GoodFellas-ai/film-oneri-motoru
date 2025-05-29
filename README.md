@@ -1,5 +1,4 @@
-# film-oneri-motoru
-MovieLens verisi ile içerik tabanlı film öneri sistemi
+
 # Film Öneri Motoru
 
 Bu proje, MovieLens verisi kullanılarak içerik tabanlı bir film öneri sistemi geliştirmeyi amaçlar. Kullanıcının seçtiği bir filme benzer türde filmler önerilir.
