@@ -1,7 +1,7 @@
 
 # Film Önerisi ve Türevleri Motoru
 
-Bu projenin içeriği, MovieLens verisinden faydalanarak içerik tabanlı bir film öneri sistemi geliştirmeyi amaçlamaktadır. Amaç, Kullanıcının seçtiği bir filme benzer tarzda filmler önerilmektedir..
+Bu projenin içeriği, MovieLens verisinden faydalanarak içerik tabanlı bir film öneri sistemi geliştirmeyi amaçlamaktadır. Dolayısıyla kullanıcının seçtiği bir filme benzer tarzda filmler önerilmektedir..
 
 ## Kullanılan Teknolojiler
 - Python
