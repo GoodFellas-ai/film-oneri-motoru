@@ -16,3 +16,6 @@ Bu projenin içeriği, MovieLens verisinden faydalanarak içerik tabanlı bir fi
 ## Örnek
 Girdi: The Terminator (1984) 
 Çıktı: Predator, RoboCop, Total Recall...
+
+Girdi 2: GoodFellas (1990)
+Çıktı 2: The Godfather, Casino, Once Upon a Time in America...
