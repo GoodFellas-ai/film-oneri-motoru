@@ -1,7 +1,7 @@
 
 # Film Öneri Motoru
 
-Bu proje, MovieLens verisi kullanılarak içerik tabanlı bir film öneri sistemi geliştirmeyi amaçlar. Kullanıcının seçtiği bir filme benzer türde filmler önerilir.
+Bu projenin içeriği, MovieLens verisinden faydalanarak içerik tabanlı bir film öneri sistemi geliştirmeyi amaçlamaktadır. Amaç, Kullanıcının seçtiği bir filme benzer tarzda filmler önerilmektedir..
 
 ## Kullanılan Teknolojiler
 - Python
@@ -9,10 +9,10 @@ Bu proje, MovieLens verisi kullanılarak içerik tabanlı bir film öneri sistem
 - Scikit-learn
 
 ## Kullanım
-1. Veri dosyasını `data/` klasörüne yerleştirin.
-2. Notebook'u çalıştırın.
-3. Favori bir film ismi girin, önerileri alın.
+1. Veri dosyasını `data/` klasörüne yerleştiriniz.
+2. Notebook'u çalıştırınız.
+3. Favori bir film ismi giriniz, önerileri alınız.
 
 ## Örnek
-Girdi: The Terminator  
+Girdi: The Terminator (1984) 
 Çıktı: Predator, RoboCop, Total Recall...
