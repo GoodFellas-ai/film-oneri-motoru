@@ -36,7 +36,6 @@ Suitable data structure was prepared for the model
 Baseline recommendation model was developed
 Similarity-based (cosine similarity) approach was used
 Alternative methods were evaluated
-
 🔹 4. Evaluation
 Model performance was analyzed
 Recommendation quality was measured
