@@ -1,6 +1,8 @@
 
 🎬 Movie Recommendation Engine (Movie Recommendation System)
 
+----
+
 📌 About the Project
 
 This project aims to develop a recommendation system that provides personalized movie recommendations based on users' past movie ratings.
