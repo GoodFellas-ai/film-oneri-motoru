@@ -44,7 +44,7 @@ Alternative methods were evaluated
 Model performance was analyzed
 Recommendation quality was measured
 Results were interpreted
----
+
 
 📈 Results
 User preferences Meaningful movie recommendations were generated based on the user's preferences.
