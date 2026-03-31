@@ -56,17 +56,13 @@ Within the scope of the project, a structure has been created that models user p
 - The recommendation system was optimized at the basic level.
 ---
 
-📊 Project Management:
-
-- This project was managed using GitHub Projects:
-👉 https://github.com/GoodFellas-ai/film-oneri-motoru/projects
-
 ---
 📌 Development Areas:
 
 - Hybrid recommendation system integration
 - Deep learning-based models (Neural Collaborative Filtering)
 - Real-time recommendation system development
+
 ---
 👨‍💻 Author:
 
@@ -91,7 +87,7 @@ Input 4: Apocalypse Now (1979)
 
 ## 📊 Project Management:
 
-This project is actively managed using GitHub Projects:
+This project is actively managed using GitHub Projects now:
 
 - 👉 https://github.com/GoodFellas-ai/film-oneri-motoru/projects
 
