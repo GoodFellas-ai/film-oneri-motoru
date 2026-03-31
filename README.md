@@ -8,6 +8,7 @@
 This project aims to develop a recommendation system that provides personalized movie recommendations based on users' past movie ratings.
 Within the scope of the project, a structure has been created that models user preferences using data analysis, feature engineering, and machine learning techniques.
 ---
+
 🚀 Technologies Used
 Python
 Pandas, NumPy
@@ -15,11 +16,13 @@ Scikit-learn
 Matplotlib / Seaborn
 Jupyter Notebook
 ---
+
 📊 Dataset
 MovieLens dataset was used
 User-movie interactions (ratings) were analyzed
 Data cleaning and preprocessing steps were applied
 ---
+
 ⚙️ Project Stages
 
 🔹 1. Data Analysis (EDA)
@@ -36,19 +39,23 @@ Suitable data structure was prepared for the model
 Baseline recommendation model was developed
 Similarity-based (cosine similarity) approach was used
 Alternative methods were evaluated
+
 🔹 4. Evaluation
 Model performance was analyzed
 Recommendation quality was measured
 Results were interpreted
 ---
+
 📈 Results
 User preferences Meaningful movie recommendations were generated based on the user's preferences.
 The model successfully captured similar user behaviors.
 The recommendation system was optimized at the basic level.
 ---
+
 📊 Project Management
 This project was managed using GitHub Projects:
 👉 https://github.com/GoodFellas-ai/film-oneri-motoru/projects
+
 ---
 📌 Development Areas
 Hybrid recommendation system integration
