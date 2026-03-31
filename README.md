@@ -1,3 +1,30 @@
+Movie Recommendation and Derivatives Engine
+This project aims to develop a content-based movie recommendation system using MovieLens data. Therefore, movies similar in style to the movie chosen by the user are recommendeds. Announced to cinephiles and related genres...
+
+Technologies Used
+Python
+Pandas
+Scikit-learn
+
+Usage
+Please place the data file in the data/ folder.
+Run Notebook.
+Enter a favorite movie title and receive recommendations.
+
+
+Examples
+Input: The Terminator (1984)
+Output: Predator, RoboCop, Total Recall, The Thing, Alien...
+
+Input 2: GoodFellas (1990) 
+Output 2: The Godfather, Casino, Once Upon a Time in America, Scarface...
+
+Input 3: Lawrence of Arabia (1962)
+Output 3: Doctor Zhivago, Ben-Hur, The Bridge on the River Kwai, Barry Lyndon...
+
+Input 4: Apocalypse Now (1979) 
+Output 4: The Deer Hunter, Platoon, Full Metal Jacket, Thin Red Line...
+
 
 # Film Önerisi ve Türevleri Motoru
 
