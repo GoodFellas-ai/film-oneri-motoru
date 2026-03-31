@@ -1,15 +1,17 @@
-...--
+
+
 🎬 Movie Recommendation Engine (Movie Recommendation System)
 
 ----
 
-📌 About the Project
+📌 About the Project:
 
 This project aims to develop a recommendation system that provides personalized movie recommendations based on users' past movie ratings.
 Within the scope of the project, a structure has been created that models user preferences using data analysis, feature engineering, and machine learning techniques.
+
 ---
 
-🚀 Technologies Used
+🚀 Technologies Used: 
 Python
 Pandas, NumPy
 Scikit-learn
@@ -17,13 +19,14 @@ Matplotlib / Seaborn
 Jupyter Notebook
 ---
 
-📊 Dataset
+📊 Dataset:
+
 MovieLens dataset was used
 User-movie interactions (ratings) were analyzed
 Data cleaning and preprocessing steps were applied
 ---
 
-⚙️ Project Stages
+⚙️ Project Stages:
 
 🔹 1. Data Analysis (EDA)
 Dataset was examined (shape, feature types)
@@ -46,26 +49,31 @@ Recommendation quality was measured
 Results were interpreted
 
 
-📈 Results
+📈 Results:
+
 User preferences Meaningful movie recommendations were generated based on the user's preferences.
 The model successfully captured similar user behaviors.
 The recommendation system was optimized at the basic level.
 ---
 
-📊 Project Management
+📊 Project Management:
+
 This project was managed using GitHub Projects:
 👉 https://github.com/GoodFellas-ai/film-oneri-motoru/projects
 
 ---
-📌 Development Areas
+📌 Development Areas:
+
 Hybrid recommendation system integration
 Deep learning-based models (Neural Collaborative Filtering)
 Real-time recommendation system development
 ---
-👨‍💻 Author
+👨‍💻 Author:
+
 This project was prepared to develop practical skills in the field of data science and AI also recommendation systems.
 ---
-Examples
+
+Examples:
 
 Input: The Terminator (1984)
 Output: Predator, RoboCop, Total Recall, The Thing, Alien...
@@ -81,8 +89,12 @@ Output 4: The Deer Hunter, Platoon, Full Metal Jacket, Thin Red Line...
 
 ---
 
-## 📊 Project Management
+## 📊 Project Management:
 
 This project is actively managed using GitHub Projects:
 
 👉 https://github.com/GoodFellas-ai/film-oneri-motoru/projects
+
+
+
+BETTER CALL SAUL !!!
