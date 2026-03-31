@@ -17,6 +17,7 @@ Within the scope of the project, a structure has been created that models user p
 - Scikit-learn
 - Matplotlib / Seaborn
 - Jupyter Notebook
+- TfidfVectorizer
 ---
 
 📊 Dataset:
