@@ -12,11 +12,11 @@ Within the scope of the project, a structure has been created that models user p
 ---
 
 🚀 Technologies Used: 
-Python
-Pandas, NumPy
-Scikit-learn
-Matplotlib / Seaborn
-Jupyter Notebook
+- Python
+- Pandas, NumPy
+- Scikit-learn
+- Matplotlib / Seaborn
+- Jupyter Notebook
 ---
 
 📊 Dataset:
